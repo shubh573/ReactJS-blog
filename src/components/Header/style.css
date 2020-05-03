@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.header ul li{ 
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ee6f06;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+}
+
+.header ul li:hover{
+    color:#5f9ea0;
+}
+
+.headerMenu{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.socialMed a{
+    display: inline-block;
+    margin: 0 2px;
+    letter-spacing: 1.2px;
+}
+
+.socialMed a:hover{
+    color:#5f9ea0;
+}

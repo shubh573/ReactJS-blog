@@ -1,0 +1,104 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "Jaisalmer, Rajasthan",
+            "slug": "Jaisalmer, Rajasthan",
+            "postedOn": "July 21, 2015",
+            "author": "Shubham Mhaske",
+            "blogImage": "Jaisalmer.jpg",
+            "blogText": "Nicknamed 'the Golden City', Jaisalmer is one of the most famous desert destinations among national and international tourists. With the grand Jaisalmer Fort (a World Heritage Site), a rich heritage of breathtaking Jain temples, and exotic village remains like Kuldhara, Jaisalmer totally lives up to the hype of a desert mystery. It only helps that every year in February, Jaisalmer hosts the most awaited cultural event in Rajasthan - the Desert Festival. "
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "Udaipur, Rajasthan",
+            "slug": "Udaipur, Rajasthan",
+            "postedOn": "May 03, 2015",
+            "author": "Shubham Mhaske",
+            "blogImage": "udaipur.jpg",
+            "blogText": "This 'Lake City' is ideal for those who want to explore more of Rajasthan than just deserts. Home to a sophisticated lake system combining 5 lakes, a gorgeous Lake Palace that redefines luxury, and the breathtakingly beautiful Jag Mandir, Udaipur is well worth a visit. It only helps that the famous Kumbalgarh Fort is only a 2-hour drive away, there are numerous rustic cafes in the old city with a scenic view of the lakes, and the local Sukhadia circle is a street food heaven for foodies. "
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "Shillong, Meghalaya",
+            "slug": "Shillong, Meghalaya",
+            "postedOn": "Apr 02, 2016",
+            "author": "Shubham Mhaske",
+            "blogImage": "Shillong.jpg",
+            "blogText": "The capital city of Meghalaya is a traveler's delight. Technically it may be considered a hill station, but there is much more to fall in love with than just the pristine beauty of hills. Like the multi-tiered Elephant waterfalls, that look straight out of a fairy tale. Or the hot springs of Jakrem, that are only 2 hours away from Shillong, and said to have medicinal properties. Even Cherrapunji, which was the wettest place in India for the longest time, is only an hour's drive from Shillong. Other than this, the border town of Dawki, known for it annual boat race, and the sacred forest of Mawphlang, famous for the Rudraksha tree are also nearby attractions and definitely worth a visit. "
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "Khajuraho, Madhya Pradesh",
+            "slug": "Khajuraho, Madhya Pradesh",
+            "postedOn": "Jan 02, 2016",
+            "author": "Shubham Mhaske",
+            "blogImage": "Khajuraho.jpg",
+            "blogText": "Khajuraho is proof that our ancestors had far more progressive ideologies than we do. The Khajuraho Group of Monuments - a UNESCO World Heritage Site - are renowned for the detailed erotic sculptures. However, apart from the famous temple art, the small town is also famous for the mythologically important and naturally beautiful Pandav falls, the Panna National Park, and the Raneh Falls, famously known as India's mini Grand Canyon. "
+        },
+        {
+            "id": 5,
+            "blogCategory": "Featured",
+            "blogTitle": "Hampi, Karnataka",
+            "slug": "Hampi, Karnataka",
+            "postedOn": "July 25, 2017",
+            "author": "Shubham Mhaske",
+            "blogImage": "Hampi.jpg",
+            "blogText": "If you're a fan of adventure and history then Hampi is the place to be. A UNESCO world heritage site, this place is also an Instagramer's delight.But more importantly this small village will convince you of the charm and beauty that even ruins can bring. With temples that were constructed roughly between 1336 and 1570 CE, the site is a beautiful look into Indian history and its wonders. "
+        },
+        {
+            "id": 6,
+            "blogCategory": "Simple",
+            "blogTitle": "Aurangabad, Maharashtra",
+            "slug": "Aurangabad, Maharashtra",
+            "postedOn": "June 21, 2017",
+            "author": "Shubham Mhaske",
+            "blogImage": "ajanta-and-ellora-caves.jpg",
+            "blogText": "Famous for the UNESCO World Heritage Sites Ajanta Caves and Ellora Caves, Aurangabad is truly a hub of historical monuments. While Bibi Ka Maqbara, Tomb of Aurangzeb and Daulatabad Fort are other famous historical monuments, the city is also home to the Salim Ali Lake & Bird Sanctuary. In addition to this, the Aurangabad caves famous for the Tantric influences (as evident by their design and iconography) and the 17th-century water mill, Panchakki, are also popular tourist spots. "
+        },
+        {
+            "id": 7,
+            "blogCategory": "Simple",
+            "blogTitle": "Mysore, Karnataka",
+            "slug": "Mysore, Karnataka",
+            "postedOn": "Feb 16, 2018",
+            "author": "Shubham Mhaske",
+            "blogImage": "Mysore-Palace.jpg",
+            "blogText": "Nestled in the foothills of the Chamundi Hills, this royal heritage city is famous for its silk sarees, breathtakingly beautiful Mysore Palace, and the famous 10-day long Dasara festival. The city is also home to the The Mysore Zoo, natural sanctuaries like Bandipur National Park and Mudumalai National Park, and The Sand Sculpture Museum. "
+        },
+        {
+            "id": 8,
+            "blogCategory": "Simple",
+            "blogTitle": "Varanasi, Uttar Pradesh",
+            "slug": "Varanasi, Uttar Pradesh",
+            "postedOn": "August 9, 2018",
+            "author": "Shubham Mhaske",
+            "blogImage": "varanasi.jpg",
+            "blogText": "Situated on the banks of Ganga, this is considered as the holiest of the seven sacred cities in Hinduism and Jainism. Thus, a visit to Varanasi is bound to be colored by a heady dose of religious fervor. But beautiful temples like the Kashi Vishwanath Temple, sunset strolls across the ghats, and settling peacefully to watch the majestic evening aarti is a unique experience. You can also head to Sarnath, which is only 12 kms away from Varanasi. "
+        },
+        {
+            "id": 9,
+            "blogCategory": "Featured",
+            "blogTitle": "Himachal Pradesh",
+            "slug": "Himachal Pradesh",
+            "postedOn": "December 20, 2018",
+            "author": "Shubham Mhaske",
+            "blogImage": "himachal.jpg",
+            "blogText": "Himachal Pradesh is a small state in Northern India with an overflow of natural beauty. This mountain state is best for trekking and skiing. It has scenic mountain towns, resorts and Tibetan and Buddhist monasteries. Limpid lakes, plunging river valleys, snow-covered mountain passes, eternal snow peaks – you have it all when you are in Himachal. There are many places to visit in this small state like Shimla and Manali, Kullu, Chamba and Khajjiar, Solang Valley, Palampur, and the Dharamsala and Dalhousie regions. The less-visited Lahaul and Spiti districts are famous among adventure seekers. Many activities like rafting, paragliding, skiing and zorbing are popular in Manali and Solang Valley. An excursion to Rohtang Snow Point from Manali is breathtaking. Small villages scattered on hill slopes and the warmth of the people, along with the blissful vibe of the mountains will make you feel enchanted throughout your trip to Himachal.    "
+        },
+        {
+            "id": 10,
+            "blogCategory": "Featured",
+            "blogTitle": "Goa",
+            "slug": "Goa",
+            "postedOn": "June 21, 2019",
+            "author": "Shubham Mhaske",
+            "blogImage": "goa.jpg",
+            "blogText": "Sparkling waters, white sand beaches and palm trees swaying in the breeze – Goa is all this and much more. Goa, the smallest state in the western coast of India, is crowded with local and foreign tourists during the high season. Goa is famous for its awesome nightlife, with a number of discotheques and pubs operating all year round. The beaches are full of beach shacks with great music and mouth-watering seafood and exotic delicacies. Goa is also famous for its world heritage architecture and the amazing old churches. The Dudhsagar waterfalls are yet another attraction of Goa. Goa is a biodiversity hotspot, due to its location on the Western Ghats range. It offers water sports such as windsurfing, snorkelling, waterskiing and banana rides. The famous beaches of North Goa are Calangute, Candolim, Arjuna, Baga and Arambol, while some famous South Goan beaches are Agonda, Colva, Mobor and Majorda. "
+        }
+    ]
+}
